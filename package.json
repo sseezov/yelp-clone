@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "server",
+  "description": "\"# yelp-clone\"",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseezov/yelp-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sseezov/yelp-clone/issues"
+  },
+  "homepage": "https://github.com/sseezov/yelp-clone#readme"
+}
