@@ -89,5 +89,3 @@ app.delete('/api/v1/restaurants/:id', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`port is listening on ${PORT}`)
 })
-
-const hehehe = 'trying get the achievement/this is test'
